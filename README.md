@@ -14,3 +14,5 @@
 El objetivo es mostrar en un formato tipo tabla todos los registro creados en una tabla de tu BD diseñada previamente
 
 La entrega deberá realizarse en formato video donde se muestre en como máximo de 3 minutos la funcionalidad de la aplicación. 
+
+<p>Link al video de muestra de la web: <a href="https://youtube.com">Terminando el proyecto</a></p>
